@@ -62,3 +62,10 @@ cmd/workload/workload
 
 # for testing docker builds 
 .github/workflows/docker-test.yml
+
+# ethereum tests
+tests-ethereum/*.tgz
+tests-ethereum/ansible/
+tests-ethereum/docs/
+tests-ethereum/src/
+tests-ethereum/requirements.txt
